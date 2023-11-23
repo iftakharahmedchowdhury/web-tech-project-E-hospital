@@ -1,0 +1,97 @@
+.loginBody{
+    background-image: url(image/homeBG2.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    align-items: center;
+    text-align: center;
+}
+.mainbg{
+    background-color: rgb(240, 254, 255);
+}
+.Adminbg{
+    background-image: url(image/admin.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.doctorBG{
+    background-image: url(image/doctorsBG.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.appoinmentBG{
+    background-color: powderblue;
+}
+.helpdeskBG{
+    background-image: url(image/helpdeskBG.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.hospitalRecordBG{
+    background-image: url(image/hospitalRecordBG.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+.input{
+    height: 15px;
+    width: 95%;
+}
+.submitButton{
+    background-color: rgb(4, 0, 255);
+    color: white;
+    font-weight: bolder;
+    font-size: 14px;
+    border-radius: 7px;
+    padding: 5px 10px;
+}
+.button{
+    width:550px;
+    padding:10px;
+    color:#fff;
+    font-size:20px;
+    background-color:#2FA5EB !important;
+}
+.href{
+    display: inline;
+}
+.color{
+    color: brown;
+}
+.font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fieldset{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-align: justify;
+}
+.logout{
+    text-align: center;
+}
+.caption{
+    text-align: center;
+    margin-left:30%;
+    color: white;
+}
+.recordData{
+    margin-left:18%;
+}
+.recordFieldset{
+    margin-left: 500px;
+}
+.recordFieldset1{
+    margin-left: 420px;
+}
+.recordData1{
+    margin-left:42%;
+}
+.recordData2{
+    margin-left:38%;
+}
+.recordData3{
+    margin-left:36%;
+}

@@ -1,0 +1,93 @@
+#indexHomepage{
+ 
+    background-image: url('image/homepage.jpg');
+    background-repeat: no-repeat;
+   
+}
+
+#indexTable{
+    margin-top: 20%;
+}
+#LoginPatient{
+    background-image: url('image/patientLogin.jpg');
+    background-repeat: no-repeat;
+    
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+#signup{
+    background-image: url('image/signup.png');
+    background-repeat: no-repeat;
+    
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#patientHome{
+    background-image: url('image/patientHomePage.jpg');
+    background-repeat: no-repeat;
+    
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#patientGiveReview{
+    background-image: url('image/patientHomePage.jpg');
+    background-repeat: no-repeat;
+    
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.stafflogin{
+  background-image: url('image/patientHomePage.jpg');
+  background-repeat: no-repeat;
+  
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+#accHomePage{
+  background-image: url('image/patientHomePage.jpg');
+  background-repeat: no-repeat;
+  
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+}
+#pharmaHome{
+  background-image: url('image/pharmaHome.jpg');
+  background-repeat: no-repeat;
+  
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+#pharmahomeTable{
+  margin-top: 0%;
+}
+#addProduct{
+  background-image: url('image/addProduct.webp');
+  background-repeat: no-repeat;
+  
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+
+
